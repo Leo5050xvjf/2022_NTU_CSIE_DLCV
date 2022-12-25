@@ -1,0 +1,1 @@
+python3 hw2_1_testing.py -o $1
